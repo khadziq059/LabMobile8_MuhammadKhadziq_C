@@ -169,31 +169,31 @@
 ## Screenshot Hasil 
 
 ### 1. Halaman Home
-Menampilkan daftar mahasiswa yang sudah ditambahkan.
+Tampilan awal halaman home.
 
-<img src="./src/assets/home.png" alt="Home" width="600"/>
+<img src="./src/assets/home.png" alt="Home" width="250"/>
 
 ### 2. Tambah Mahasiswa
 Formulir untuk menambahkan data mahasiswa baru.
 
-<img src="./src/assets/tambah.png" alt="Tambah Mahasiswa" width="600"/>
+<img src="./src/assets/tambah.png" alt="Tambah Mahasiswa" width="250"/>
 
 ### 3. Setelah Menambahkan Mahasiswa
 Tampilan setelah mahasiswa berhasil ditambahkan.
 
-<img src="./src/assets/aftertambah.png" alt="After Tambah Mahasiswa" width="600"/>
+<img src="./src/assets/aftertambah.png" alt="After Tambah Mahasiswa" width="250"/>
 
 ### 4. Edit Mahasiswa
 Formulir untuk mengedit data mahasiswa yang sudah ada.
 
-<img src="./src/assets/edit.png" alt="Edit Mahasiswa" width="600"/>
+<img src="./src/assets/edit.png" alt="Edit Mahasiswa" width="250"/>
 
 ### 5. Setelah Edit Mahasiswa
 Tampilan setelah mahasiswa berhasil diperbarui.
 
-<img src="./src/assets/afteredit.png" alt="After Edit Mahasiswa" width="600"/>
+<img src="./src/assets/afteredit.png" alt="After Edit Mahasiswa" width="250"/>
 
 ### 6. Hapus Mahasiswa
 Konfirmasi untuk menghapus data mahasiswa.
 
-<img src="./src/assets/hapus.png" alt="Hapus Mahasiswa" width="600"/>
+<img src="./src/assets/hapus.png" alt="Hapus Mahasiswa" width="250"/>
