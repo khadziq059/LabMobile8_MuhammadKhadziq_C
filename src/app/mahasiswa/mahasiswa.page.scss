@@ -1,0 +1,18 @@
+
+  .alert-button {
+    font-weight: bold;
+    --color: white;
+    --border-radius: 4px;
+    --box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .alert-button-cancel {
+    --background: #f1faee;
+    --color: #1d3557;
+  }
+  
+  .alert-button-confirm {
+    --background: #e63946;
+    --color: white;
+  }
+  

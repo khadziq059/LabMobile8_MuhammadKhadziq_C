@@ -1,3 +1,4 @@
+<!-- mahasiswa.page.html -->
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>Data Mahasiswa</ion-title>
@@ -130,7 +131,7 @@
       <ion-button expand="block" (click)="openModalEdit(true,item.id)">
         Edit
       </ion-button>
-      <ion-button color="danger" slot="end" (click)="hapusMahasiswa(item.id)">
+      <ion-button color="danger" slot="end" (click)="konfirmasiHapus(item.id)">
         Hapus
       </ion-button>
     </ion-item>
